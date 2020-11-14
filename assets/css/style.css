@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0px;
+}
+
+nav {
+  font-family: "Calibri", "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  background-image: url("../images/landingpg-01.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.jumbotron h1 {
+  margin-top: 100px;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  color: rgb(255, 255, 255);
+  padding-left: 20px;
+}
+
+#galbody,
+#contactsection {
+  margin-top: 100px;
+}
+
+#galbody {
+  margin-bottom: 120px;
+}
+
+#contactsection {
+  width: 700px;
+}
+
+#about-me-card {
+  margin-bottom: 150px;
+}
+
+#bodyimg {
+  background-image: url("../images/bckgrd-contactmepg-01.png");
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+  height: 100vh;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+footer {
+  color: white;
+  background-color: rgb(52, 0, 100);
+  position: fixed;
+  clear: both;
+  bottom: 0;
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 20px;
+}
