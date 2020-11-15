@@ -15,7 +15,7 @@ My Portfolio - Developing first layout and bones of my own developer protfoilo
 
 ## General info
 
-The piurpose of this project is to clean up code syntax, condense css styles and optimize website fucionalitly and acessibilty standard
+The piurpose of this project is create the foundation for a fucntional, dynamic porfolio website to use at the end of the program.
 
 ## Screenshots
 
@@ -30,35 +30,48 @@ The piurpose of this project is to clean up code syntax, condense css styles and
 
 ## Acceptance Criteria
 
-- GIVEN a webpage meets accessibility standards
-- WHEN I view the source code
-- THEN I find semantic HTML elements
-- WHEN I view the structure of the HTML elements
-- THEN I find that the elements follow a logical structure independent of styling and positioning
-- WHEN I view the image elements
-- THEN I find accessible alt attributes
-- WHEN I view the heading attributes
-- THEN they fall in sequential order
-- WHEN I view the title element
-- THEN I find a concise, descriptive title
+- Functional, deployed application
+
+- GitHub repository with README describing the project
+
+- Navbar must be consistent on each page.
+
+- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+
+- All links must work.
+
+- Must use semantic html.
+
+- Each page must have valid and correct HTML. (use a validation service)
+
+- Must contain your personalized information. (bio, name, images, links to social media, etc.)
+
+- Must properly utilize Bootstrap components and grid system.
 
 ## Features
 
 List of features ready and TODOs for future development
 
-- Anchor links in nav bar to other sections of the page.
-- Optimized SEO
-- added alt tags to all images
+- Nav bar with fuctional links to may other webb pages (portfolio, aboutme page)
+- Used bootstrap to create a jumbotron and cards
+- added outside fonts
+- used a color scheme to bring a cohesive look to the webpage
+- Anchor links in nav bar to about me section
+- Added graphic elemts like backgroun images and porfotlio images
+- Created a contact me form
+- used a fixed footer to allow footer to scrool with page.
 - reformated/organized syntax
 
 To-do list:
 
-- Add links to other pages in nav bar
-- more style
+- Fix (margin-bottom) space bettwen footer and about me section
+- add more social media links
+- connect my porfolio cards to other pages with my work.
+- continue to edit and update the information/ style of pages.
 
 ## Status
 
-Project is: _in progress_ other features can be added to make website more dynamic an dinteractive
+Project is: _in progress_ other features can be added to make website more dynamic and interactive
 
 ## Sources
 
@@ -69,6 +82,10 @@ w3schools
 - https://www.w3schools.com/tags/tag_a.asp
 - https://www.w3schools.com/howto/howto_js_collapsible.asp
 - https://blog.hubspot.com/marketing/jump-link-same-page
+- https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+- https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
+- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2
+- https://www.w3schools.com/cssref/pr_background-image.asp
 
 ## Contact
 
