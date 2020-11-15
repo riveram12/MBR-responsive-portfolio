@@ -27,6 +27,8 @@ The piurpose of this project is create the foundation for a fucntional, dynamic 
 
 - Tech 1 - html5
 - Tech 2 - Css
+- Tech 3 - Bootstrap
+- Tech 4 - google fonts
 
 ## Acceptance Criteria
 
