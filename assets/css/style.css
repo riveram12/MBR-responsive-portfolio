@@ -29,21 +29,21 @@ nav {
   font-size: 30px;
 }
 
+.jumbotron p {
+  font-size: 60px;
+}
+
 #galbody,
 #contactsection {
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 #galbody {
-  margin-bottom: 120px;
+  margin-bottom: 150px;
 }
 
 #contactsection {
   width: 700px;
-}
-
-#about-me-card {
-  margin-bottom: 150px;
 }
 
 #bodyimg {

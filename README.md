@@ -59,7 +59,7 @@ List of features ready and TODOs for future development
 - added outside fonts
 - used a color scheme to bring a cohesive look to the webpage
 - Anchor links in nav bar to about me section
-- Added graphic elemts like backgroun images and porfotlio images
+- Added & created my own graphic elemts using illustrator like backgroundimages and porfotlio images
 - Created a contact me form
 - used a fixed footer to allow footer to scrool with page.
 - reformated/organized syntax
@@ -78,6 +78,9 @@ Project is: _in progress_ other features can be added to make website more dynam
 ## Sources
 
 study group 1 - We helped eachother slove issues by debugging, sharing outside resources and going step by step to understand why soemthing was written/coded the way it was.
+
+adobe stock - to create images
+https://stock.adobe.com/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=web+design&order=relevance&safe_search=1&search_page=1&search_type=usertyped&acp=&aco=web+design&get_facets=0
 
 w3schools
 
