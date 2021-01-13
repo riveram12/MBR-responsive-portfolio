@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css" />
+  
      <!-- FONT AWESOME LINK-->
      <script
      src="https://kit.fontawesome.com/d5b00c420f.js"
@@ -30,37 +32,69 @@
  />
 </head>
     <title>Mariah Rivera's Resume</title>
-
-    <style>
-      #mariahResume {
-        margin: 20 px;
-        background-color: rgb(238, 243, 255);
-
-      }
-    </style>
 </head>
-<body>
 
- 
+<body class="bodyimg">
+
+ <!--first container-->
+ <div class="container">
+  <!--Navigation-->
+  <!--** figure out how to chnage nav text color & background color-->
+  <nav
+    class="navbar fixed-top navbar-expand-lg navbar-light bg-light navbar-custom"
+  >
+    <a class="navbar-brand" href="index.html">Mariah Rivera</a>
+
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html"
+            >Home <span class="sr-only">(current)</span></a
+          >
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-jump" href="#about-me-card">About Me</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-jump" href="portfolio.html">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-jump" href="contact.html">Contact Me</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+ </div>
 
 
-  <header>
+
     <!--Jumbotron - moved outside of container below ot make full width-->
-    <div class="jumbotron jumbotron-fluid" id="mariahResume">
-      <div class="container">
+    <div class="container" id="mariahResume">
         <div class="row">
-          <div class="col-sm-6">
+          <div class="col-sm-12">
             <h1 class="display-4"><strong></strong></h1>
             <p style="font-family: Lora, serif">
               My Professional Experience 
             </p>
             
             <a href="assets/resume.pdf" download>
-              <img src="assets/images/mariah-resume1.png" alt="W3Schools" width="700" height="1000">
+              <img src="assets/images/mariah-resume1.png" id="resumeImg" alt="Mariah Resume" width="700" height="1000">
             </a>
             <br></br>
             <a href="assets/resume.pdf" download>
-              <img src="assets/images/mariah-resume2.png" alt="W3Schools" width="700" height="1000">
+              <img src="assets/images/mariah-resume2.png" id="resumeImg" alt="Mariah Resume" width="700" height="1000">
             </a>
 
             <br></br>
@@ -77,8 +111,18 @@
           </div>
         </div>
       </div>
-    </div>
-  </header>
+
+      <br></br>
+
+      <footer>
+        <a href="https://github.com/riveram12" class="fa fa-github"></a>
+        <a
+          href="www.linkedin.com/in/mariah-rivera-58b7416b"
+          class="fa fa-linkedin"
+        ></a>
+        <p>❤️ - by Mariah</p>
+      </footer>
+
 
 
     
